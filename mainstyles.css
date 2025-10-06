@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+font-family: Arial, Helvetica, sans-serif;
+  width: 80;
+  margin: auto;}
+
+.sectionstyles{
+    float: left;
+    margin-left: 5px;
+    width: 48px;
+
+}
+.imgpresident{
+    width: 40%;
+    height: auto;
+}
+
+
+    
