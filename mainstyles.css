@@ -1,17 +1,18 @@
 body{
     background-color: aquamarine;
 font-family: Arial, Helvetica, sans-serif;
-  width: 80;
+  width: 80%;
   margin: auto;}
 
-.sectionstyles{
+
+.sectionstyle{
     float: left;
     margin-left: 5px;
-    width: 48px;
+    width: 48%;
 
 }
-.imgpresident{
-    width: 40%;
+.imgmebike{
+    width: 50%;
     height: auto;
 }
 
